@@ -1,5 +1,57 @@
 ---
 baseURL: "https://atkn.me/"
 languageCode: "en-us"
-title: "Hi, I'm Atakan!"
-theme: "typo"
+title: "atkn.me"
+
+theme: typo
+colorPalette: default
+hideHeader: false
+
+taxonomies:
+  tag: tag
+
+# Lists parameters
+paginationSize: 100
+listSummaries: true
+listDateFormat: '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs: true
+
+params:
+  description: Mostly harmless.
+  homeIntroTitle: Hi! I'm Atakan. /ˈatakɑn/
+  homeIntroContent: |
+    I am a turkish software engineer based in Munich. I am focused on iOS and like tinkering with a wide range of topics such as;     such as; Embedded, Rust, Nixos, Homelabbing, LLMs, distributed systems...
+    
+    #### Languages
+    - Swift
+    - Rust
+    - Typescript
+    - C#
+    - C
+    #### Technologies
+    - iOS
+    - Linux
+    - Nixos
+    - Ansible
+    - Docker
+    - Embedded
+    - Networking
+    - Virtualization
+  homeCollectionTitle: Posts
+  homeCollection: posts
+  social:
+    - name: github
+      url: https://github.com/phynics
+    - name: bluesky
+      url: https://bsky.app/profile/atakan.d12macera.com
+    - name: mailgun
+      url: "mailto:atknme-oofee3ma@mailbox.org"
+  menu:
+    - name: home
+      url: /
+    - name: posts
+      url: /posts
+    - name: about
+      url: /about
