@@ -53,5 +53,3 @@ params:
       url: /
     - name: posts
       url: /posts
-    - name: about
-      url: /about

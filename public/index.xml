@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on atkn.me</title>
-    <link>https://atkn.me/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on atkn.me</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Mar 2025 15:40:32 +0100</lastBuildDate>
-    <atom:link href="https://atkn.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Existential</title>
-      <link>https://atkn.me/posts/existential/</link>
+      <link>http://localhost:1313/posts/existential/</link>
       <pubDate>Thu, 13 Mar 2025 15:40:32 +0100</pubDate>
-      <guid>https://atkn.me/posts/existential/</guid>
+      <guid>http://localhost:1313/posts/existential/</guid>
       <description>&lt;h3 class=&#34;heading&#34; id=&#34;existential&#34;&gt;&#xA;  Existential&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#existential&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Why?&lt;/em&gt;&#xA;I am attempting to reign in my digital presence. This has the obvious downside of not being easily reachable. This page should serve as the contact card.&lt;/p&gt;</description>
     </item>
   </channel>
