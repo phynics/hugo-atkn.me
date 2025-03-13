@@ -22,7 +22,7 @@ params:
   description: Mostly harmless.
   homeIntroTitle: Hi! I'm Atakan. /ˈatakɑn/
   homeIntroContent: |
-    I am a turkish software engineer based in Munich. I am focused on iOS and like tinkering with a wide range of topics such as;     such as; Embedded, Rust, Nixos, Homelabbing, LLMs, distributed systems...
+    I am a turkish software engineer based in Munich. I am focused on iOS and like tinkering with a wide range of topics such as;     such as; Embedded, Rust, NixOS, Homelabbing, LLMs, distributed systems...
     
     #### Languages
     - Swift
@@ -33,12 +33,11 @@ params:
     #### Technologies
     - iOS
     - Linux
-    - Nixos
+    - NixOS
     - Ansible
     - Docker
     - Embedded
-    - Networking
-    - Virtualization
+    - Proxmox
   homeCollectionTitle: Posts
   homeCollection: posts
   social:
