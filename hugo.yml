@@ -44,7 +44,7 @@ params:
     - name: github
       url: https://github.com/phynics
     - name: bluesky
-      url: https://bsky.app/profile/atakan.d12macera.com
+      url: https://bsky.app/profile/atkn.me
     - name: mailgun
       url: "mailto:atknme-oofee3ma@mailbox.org"
   menu:
